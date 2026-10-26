@@ -86,4 +86,3 @@ En mi colaboración con el equipo de Procesos y las demás áreas:
 - Considero importante acordar cuándo se necesita revisión humana y cuidar la información que usamos.
 - **Confío en la responsabilidad de las personas.** No me gusta el micromanagement.
 
-Si tenemos acuerdos claros, información actualizada y comunicación oportuna, podemos trabajar con autonomía sin pedir estado constantemente.
