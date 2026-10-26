@@ -71,7 +71,8 @@ Me gustan las reuniones con **un objetivo claro, las personas necesarias y una d
 
 Prefiero que sean cortas, aunque entiendo que algunos asuntos necesitan más tiempo para llegar a una conclusión. Lo importante es salir con claridad sobre las decisiones, las dudas pendientes y los próximos pasos.
 
-Para las sesiones de levantamiento de procesos, valoro mucho los ejemplos, los diagramas ayudan al entendimiento visual de lo que se esta proponiendo
+Para las sesiones de levantamiento de procesos, valoro mucho los ejemplos, los diagramas ayudan al entendimiento visual de lo que se esta proponiendo.
+
 ---
 
 ## Trabajo del día a día
