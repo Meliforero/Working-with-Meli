@@ -26,8 +26,7 @@ Algunos principios que guían cómo trabajo:
 - **Entender qué queremos resolver.** Antes de proponer un cambio o incorporar IA, busco tener claro el problema y el resultado que esperamos lograr.
 - **Buscar el beneficio común.** Me interesa que las mejoras aporten valor a Kashio y faciliten el trabajo de las personas y las áreas involucradas.
 - **Construir en equipo.** Me gusta colaborar con el equipo de Procesos y las demás áreas, desde el entendimiento de la situación actual hasta la implementación de las mejoras.
-- **Acompañar los cambios.** Valoro explicar el propósito, resolver dudas y dar espacio para que las personas aprendan y se adapten.
-- **Aprender haciendo.** Estoy fortaleciendo mis conocimientos en este rol. Me gusta investigar, preguntar, probar ideas y ajustar con lo aprendido.
+
 
 No me incomoda explicar algo varias veces. Prefiero que preguntemos y avancemos con claridad.
 
