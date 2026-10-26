@@ -6,13 +6,13 @@ Este documento explica cómo es trabajar conmigo, cómo me comunico y qué puede
 
 ## Hola 👋
 
-Soy **Melissa Forero**, **Process Management & AI Specialist en Kashio**.
+Soy **Melissa Forero**
 
 Me gusta ayudar a las personas y a los equipos a trabajar con mayor claridad, encontrar oportunidades de mejora y convertir ideas en acciones que generen valor.
 
 Mi experiencia como **Scrum Master y Project Manager** me ha enseñado a facilitar conversaciones, conectar distintas perspectivas y acompañar cambios en la forma de trabajar.
 
-**Actualmente estoy en una etapa de aprendizaje y aplicación dentro de este nuevo rol como Process Management & AI Specialist.** Mi enfoque es levantar y documentar los procesos existentes en Kashio, entender cómo funcionan e identificar oportunidades de mejora.
+Actualmente estoy en una etapa de aprendizaje y aplicación dentro de este **nuevo rol como Process Management & AI Specialist.** Mi enfoque es levantar y documentar los procesos existentes en Kashio, entender cómo funcionan e identificar oportunidades de mejora.
 
 **Junto con el equipo de Procesos, trabajo en diseñar mejoras y definir cómo incorporar automatización y agentes de inteligencia artificial para facilitar las tareas, conectar herramientas y mejorar el seguimiento del trabajo.**
 
