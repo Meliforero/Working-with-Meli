@@ -1,20 +1,20 @@
 # Working with Meli
 
-Este documento explica cómo es trabajar conmigo, mi estilo de comunicación y qué pueden esperar las personas que colaboran conmigo.
+Este documento explica cómo es trabajar conmigo, cómo me comunico y qué pueden esperar las personas que colaboran conmigo.
 
 ---
 
 ## Hola 👋
 
-Soy **Melissa Forero**, Scrum Master del equipo PaaS, me gusta ayudar a las personas, al equipo de trabajo con el fin que trabajemos de una manera mas clara para todos desde la gestion.  
+Soy **Melissa Forero**, **Process Management & AI Specialist en Kashio**.
 
-El objetivo de este documento es ayudar a que mis compañeros entiendan **cómo trabajo, cómo me comunico y qué valoro al colaborar con otros**.
+Me gusta ayudar a las personas y a los equipos a trabajar con mayor claridad, encontrar oportunidades de mejora y convertir ideas en acciones que generen valor.
 
-He trabajado como Project Manager y como Scrum Master, he trabajado como Scrum Master en 3 empresas contando Kashio  y en 1 como Project Manager.
+Mi experiencia como **Scrum Master y Project Manager** me ha enseñado a facilitar conversaciones, conectar distintas perspectivas y acompañar cambios en la forma de trabajar.
 
-Para mi este rol se resumen en ser facilitadora en muchos ambitos, aveces trabajo mas con el equipo de desarrollo y el Lider Técnico y aveces desde el otro lado con el TPO y alto nivel para poder dar informe de los proyectos. 
+**Actualmente estoy en una etapa de aprendizaje y aplicación dentro de este nuevo rol como Process Management & AI Specialist.** Mi enfoque es levantar y documentar los procesos existentes en Kashio, entender cómo funcionan e identificar oportunidades de mejora.
 
-Creo mucho en que hay que pensar en el bienestar de las personas y que se sientan comodos trabajando, que no somos maquinas pero si debemos generar valor con nuestro trabajo a la empresa. 
+**Junto con el equipo de Procesos, trabajo en diseñar mejoras y definir cómo incorporar automatización y agentes de inteligencia artificial para facilitar las tareas, conectar herramientas y mejorar el seguimiento del trabajo.**
 
 ---
 
@@ -22,84 +22,69 @@ Creo mucho en que hay que pensar en el bienestar de las personas y que se sienta
 
 Algunos principios que guían cómo trabajo:
 
-- Me gusta escuchar los puntos de vista de todos, siento que somos un equipo y cada opinion aporta, no importa que suene loca la idea.
-- Siempre pienso en como nos acoplaremos Todos a una nueva manera de trabajar y buscar el bien comun no un bien particular.
-- Pero tambien entiendo que tendremos lideres y daran la ultima palabra y hay que respetar ello. Aprecio cuando nos escuchan como equipo cuando no estamos de acuerdo.
-- Me considero que soy buena explicando cuando entiendo la idea, por eso no me incomoda explicar en varias ocasiones la misma instrucción.
-- Si me afana los tiempos de entrega, no me gusta entregar en los ultimos minutos.
+- **Escuchar antes de proponer.** Me gusta conocer la experiencia de quienes viven cada proceso y considerar distintas perspectivas para construir mejores soluciones.
+- **Entender qué queremos resolver.** Antes de proponer un cambio o incorporar IA, busco tener claro el problema y el resultado que esperamos lograr.
+- **Buscar el beneficio común.** Me interesa que las mejoras aporten valor a Kashio y faciliten el trabajo de las personas y las áreas involucradas.
+- **Construir en equipo.** Me gusta colaborar con el equipo de Procesos y las demás áreas, desde el entendimiento de la situación actual hasta la implementación de las mejoras.
+- **Acompañar los cambios.** Valoro explicar el propósito, resolver dudas y dar espacio para que las personas aprendan y se adapten.
+- **Aprender haciendo.** Estoy fortaleciendo mis conocimientos en este rol. Me gusta investigar, preguntar, probar ideas y ajustar con lo aprendido.
+
+No me incomoda explicar algo varias veces. Prefiero que preguntemos y avancemos con claridad.
 
 ---
 
 ## Qué valoro
 
-Estas son algunas cosas que valoro mucho al trabajar con otras personas:
-
-- Transparencia  
-- Los retos laborales en el campo de uno, donde se puede potenciar la parte creativa y de investigación.
-- Responsabilidad  
-- Curiosidad y aprendizaje continuo  
-- Respeto y buen trato hacia los demás  
+- **Transparencia:** compartir avances, dificultades y dudas a tiempo.
+- **Responsabilidad:** cumplir los acuerdos y avisar cuando algo cambia.
+- **Curiosidad y aprendizaje continuo:** investigar, hacer preguntas y estar abiertos a otras formas de trabajar.
+- **Creatividad:** tener espacio para proponer y explorar soluciones.
+- **Respeto y buen trato:** reconocer las capacidades, los ritmos y las necesidades de cada persona.
+- **Colaboración:** construir mejoras con las personas que participarán en ellas.
+- **Retos con propósito:** trabajar en desafíos que permitan aprender y generar un aporte concreto.
 
 ---
 
-## Cosas para las que tengo poca paciencia
+## Cosas que me cuestan y cómo podemos manejarlas
 
-- Trabajos de alto esfuerzo con poco tiempo.
-- Muchos cambios en corto tiempo.
-- Trabajo largo 5:30pm.
-- No comprension de las habilidad y no habilidades de las personas.
-- Hacer perder tiempo.
-
+- **Trabajos de mucho esfuerzo con poco tiempo.** Me ayuda conversar sobre prioridades, alcance y plazos realistas.
+- **Muchos cambios en poco tiempo.** Necesito entender qué cambió, por qué y qué debemos priorizar.
+- **Extender habitualmente la jornada después de las 6:00 p. m.** Valoro que cuidemos el tiempo y planifiquemos con anticipación.
+- **No considerar las habilidades o necesidades de aprendizaje de las personas.** Prefiero que podamos reconocerlas y buscar el apoyo necesario.
+- **Perder tiempo por falta de contexto o acuerdos.** Me ayuda que tengamos claros el objetivo, los responsables y los siguientes pasos.
 
 ---
 
 ## Comunicación
 
-Mi estilo de comunicación preferido:
-
-- Prefiero un chat a que se haga una reunion de 30 minutos o 1 hora pero cuando se reuiqere siento que es mas rapido una reunion de 15 minutos.
-- Casi no reviso el correo, entiendo que ayuda a formalizar pero valoro un chat diciendome te deje un correo.
-- Es importante prestar atención en las sesiones de equipo para no estar perdidos en la siguiente sesion porque depronto se tomaron desiciones.
-- Me gusta que me pregunten para dar alguna aclaración. 
-- Mi Teams dejo que este en verde, en rojo, rojo presentando y inactiva cuando no estoy, no bloqueo mi Teams en rojo, entonces cuando estoy en rojo es porque realmente estoy ocupada y no puedo atender. 
+- Prefiero un **chat claro y con contexto** para resolver temas puntuales.
+- Cuando un intercambio se vuelve largo o confuso, una **llamada de 15 minutos** puede ayudarnos a avanzar.
+- No reviso el correo con tanta frecuencia. Si me envías algo que requiere mi atención, agradezco un mensaje por Teams avisándome.
+- Me gusta que me pregunten cuando algo no queda claro. Yo también haré preguntas para comprender mejor los procesos y las necesidades de cada área.
+- Valoro que prestemos atención en las sesiones y dejemos registradas las decisiones para mantener un contexto compartido.
+- Mi estado en Teams suele reflejar mi disponibilidad. Si estoy en rojo o presentando, normalmente estoy ocupada y responderé cuando tenga espacio.
 
 ---
 
 ## Reuniones
 
-Me gustan las reuniones cortas, que vayan al objetivo. Pero aveces si es necesaria las reuniones largar porque sino no se concluye el tema y se puede alargar hacia varios dias las incertidumbres. 
+Me gustan las reuniones con **un objetivo claro, las personas necesarias y una duración acorde al tema**.
+
+Prefiero que sean cortas, aunque entiendo que algunos asuntos necesitan más tiempo para llegar a una conclusión. Lo importante es salir con claridad sobre las decisiones, las dudas pendientes y los próximos pasos.
+
+Para las sesiones de levantamiento de procesos, valoro contar con quienes realizan el trabajo y poder revisar ejemplos concretos. Eso me ayuda a entender tanto el flujo habitual como las excepciones y dificultades del día a día.
 
 ---
 
 ## Trabajo del día a día
 
-En la dinámica del equipo:
+En mi colaboración con el equipo de Procesos y las demás áreas:
 
-- Los standups deberían ayudar a **resolver bloqueos**
-- Las actualizaciones deberían ser **claras y breves**
-- El sistema de tickets debería reflejar el trabajo real
-- No me gusta el micromanagement: **confío en la responsabilidad del equipo**
+- Busco entender y documentar **cómo se realizan hoy los procesos**, quiénes participan, qué herramientas utilizan y dónde aparecen dificultades.
+- Me gusta validar lo documentado con las personas involucradas para asegurar que refleje la realidad.
+- Busco proponer y priorizar mejoras junto con el equipo de Procesos, considerando su impacto, esfuerzo y viabilidad.
+- Al explorar automatizaciones o soluciones con IA, prefiero partir de una necesidad concreta, probar y ajustar con lo aprendido.
+- Considero importante acordar cuándo se necesita revisión humana y cuidar la información que usamos.
+- **Confío en la responsabilidad de las personas.** No me gusta el micromanagement.
 
-Si la comunicación es clara y el trabajo está documentado, normalmente **no es necesario pedir estado constantemente.**
-
----
-
-## Cómo ayudarme a trabajar mejor
-
-Puedes ayudarme mucho si:
-
-- Defines **expectativas claras**
-- Alineas el trabajo con **los objetivos del equipo**
-- Comunicas bloqueos lo antes posible
-- Compartes feedback de forma abierta
-
----
-
-## Algo que a veces se malinterpreta sobre mí
-
-Un par de cosas que pueden pasar:
-
-- Cuando estoy concentrada puedo parecer seria. No es personal, solo concentración.
-- A veces puedo saltar entre ideas rápidamente, así que si ocurre **puedes ayudarme a volver al tema principal.**
-
-Y sí… **los dad jokes pueden aparecer de vez en cuando.**
+Si tenemos acuerdos claros, información actualizada y comunicación oportuna, podemos trabajar con autonomía sin pedir estado constantemente.
