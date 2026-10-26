@@ -12,7 +12,7 @@ Me gusta ayudar a las personas y a los equipos a trabajar con mayor claridad, en
 
 Mi experiencia como **Scrum Master y Project Manager** me ha enseñado a facilitar conversaciones, conectar distintas perspectivas y acompañar cambios en la forma de trabajar.
 
-Actualmente estoy en una etapa de aprendizaje y aplicación dentro de este **nuevo rol como Process Management & AI Specialist.** Mi enfoque es levantar y documentar los procesos existentes en Kashio, entender cómo funcionan e identificar oportunidades de mejora.
+Actualmente estoy en una etapa de aprendizaje y aplicación dentro de este **nuevo rol como Process Management & AI Specialist.** Mi enfoque es levantar y documentar los procesos de la Gestión de la Demanda Change y Run en Kashio y entender cómo funcionan e identificar oportunidades de mejora.
 
 **Junto con el equipo de Procesos, trabajo en diseñar mejoras y definir cómo incorporar automatización y agentes de inteligencia artificial para facilitar las tareas, conectar herramientas y mejorar el seguimiento del trabajo.**
 
